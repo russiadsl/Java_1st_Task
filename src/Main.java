@@ -5,6 +5,6 @@ public class Main {
         int transferAmmount = 500_000_000;
         int total = currentBalance + transferAmmount;
 
-        System.out.println(total);
+       System.out.println(total);
     }
 }
