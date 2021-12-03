@@ -10,7 +10,7 @@
 * [Баг-репорт](https://github.com/russiadsl/Java_1st_Task/issues/1)
 
 ## Описание процесса тестирования
-В процессе тестирования использоваkcz [артефакт](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md)
+В процессе тестирования использовался указанный [артефакт](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md)
 
 В качестве тестовых данных использовались данные [домашнего задания](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md):
 * Счет клиента 2 000 000 000 руб.
